@@ -1,6 +1,6 @@
 ## Описание системы ostrovok.ru
 
-<img src='https://raw.githubusercontent.com/vladislavperovsky/education/73fbdbb01bc2e0a999398e8ed525961cb7e032b2/landscape_ostrovok.svg?token=CEAUEW2D2HBVVV72O4L6KITKFFNNY'>
+<img src='[https://raw.githubusercontent.com/vladislavperovsky/education/73fbdbb01bc2e0a999398e8ed525961cb7e032b2/landscape_ostrovok.svg?token=CEAUEW2D2HBVVV72O4L6KITKFFNNY](https://github.com/vladislavperovsky/education/blob/main/landscape_ostrovok.svg)'>
 
 ### API Gateway
 
