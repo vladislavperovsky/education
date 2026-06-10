@@ -1,6 +1,6 @@
 ## Описание системы Альфа-банка
 
-<img src=''>
+<img src='https://raw.githubusercontent.com/vladislavperovsky/education/d9cde0eb9052d9319d3ae598c0f47029c453d46a/alfa-bank/landscape-alfa-bank.svg'>
 
 ### Альфа-Онлайн
 | Поле | Значение |
